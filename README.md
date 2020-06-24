@@ -11,9 +11,9 @@ Worker 2 (0x516d5bb41339db0fc24c47dc5bcca8c38b21775d): 7.49 M gas
 
 Worker 3 (0xeb00e4c95368d1f7f440d304a0084de5904f17e1): 7.49 M gas 
 
-Rquester (optimistic case): 3.58 M gas for the whole protocol
+Requester (optimistic case): 3.58 M gas for the whole protocol
 
-Rquester (worst case): average  3*(1.3+1.9)/2 M gas to reject per each submission
+Requester (worst case): average  3*(1.3+1.9)/2 M gas to reject per each submission
 
 
 ## The other deploy instance at Ropsten network (over the G1 subgroup of alt_bn 128 ec)
@@ -27,9 +27,9 @@ Worker 2 (0x516d5bb41339db0fc24c47dc5bcca8c38b21775d): 3.48 M gas
 
 Worker 3 (0xeb00e4c95368d1f7f440d304a0084de5904f17e1): 3.48 M gas 
 
-Rquester (optimistic case): 2.0 M gas for the whole protocol
+Requester (optimistic case): 2.0 M gas for the whole protocol
 
-Rquester (worst case): average  (0.141+0.184+0.199) = 0.524 M gas to reject per each submission
+Requester (worst case): average  (0.141+0.184+0.199) = 0.524 M gas to reject per each submission
 
 
 ## An incorrect implementation also deployed at Ropsten network in the earlier
